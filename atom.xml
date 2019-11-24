@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-11-24T04:51:38.701Z</updated>
+  <updated>2019-11-24T05:07:36.046Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Favorites</title>
+    <link href="http://yoursite.com/2019/11/24/Favorites/"/>
+    <id>http://yoursite.com/2019/11/24/Favorites/</id>
+    <published>2019-11-24T05:03:33.000Z</published>
+    <updated>2019-11-24T05:07:36.046Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="1-杂项"><a href="#1-杂项" class="headerlink" title="1. 杂项"></a>1. 杂项</h4><p><a href="https://www.cxyxiaowu.com/6407.html" target="_blank" rel="noopener">超全面！如何用 GitHub 从零开始搭建一个博客 ？</a> </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h4 id=&quot;1-杂项&quot;&gt;&lt;a href=&quot;#1-杂项&quot; class=&quot;headerlink&quot; title=&quot;1. 杂项&quot;&gt;&lt;/a&gt;1. 杂项&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://www.cxyxiaowu.com/6407.html&quot; target=&quot;_blank
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>404 Not Found</title>
