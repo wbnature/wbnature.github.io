@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: wbnature
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: en
+author: wbnature
+language: zh-CN #en
 timezone: ''
 
 # URL
@@ -90,11 +90,17 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next #landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: git@github.com:wbnature/wbnature.github.io.git
-  branch: master
+  type: git 
+  repo: git@github.com:wbnature/wbnature.github.io.git 
+  branch: master 
+
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
